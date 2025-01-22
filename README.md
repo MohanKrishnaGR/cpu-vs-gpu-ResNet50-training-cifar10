@@ -46,11 +46,11 @@ This demo is part of a learning module designed to provide hands-on experience i
 ### Installation
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/MohanKrishnaGR/cpu-vs-gpu-ResNet50-training-cifar10.git
     ```
 2. Navigate to the project directory:
     ```
-    cd hpc
+    cd cpu-vs-gpu-ResNet50-training-cifar10
     ```
 
 3. Install required Python libraries:
